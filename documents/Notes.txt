@@ -1,0 +1,5 @@
+http://mrcslws.com/gorilla/?path=hotgym.clj
+http://blog.agi.io/search/label/Cortical%20Learning%20Algorithm
+https://numenta.com/papers/why-neurons-have-thousands-of-synapses-theory-of-sequence-memory-in-neocortex/
+https://numenta.com/papers/a-theory-of-how-columns-in-the-neocortex-enable-learning-the-structure-of-the-world/
+
